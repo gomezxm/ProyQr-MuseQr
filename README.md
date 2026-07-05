@@ -1,2 +1,2 @@
 # ProyQr-MuseQr
-MuseQr
+Proyecto MuseQr

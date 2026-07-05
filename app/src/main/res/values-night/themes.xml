@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.MuseQr" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Puedes personalizar colores específicos para el modo oscuro aquí -->
+    </style>
+</resources>

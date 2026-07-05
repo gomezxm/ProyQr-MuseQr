@@ -1,3 +1,39 @@
 <resources>
     <string name="app_name">MuseQr</string>
+    <string name="login_title">Iniciar Sesión</string>
+    <string name="register_title">Registrarse</string>
+    <string name="email_hint">Correo Electrónico</string>
+    <string name="password_hint">Contraseña</string>
+    <string name="btn_login">Acceder</string>
+    <string name="btn_register">Registrar</string>
+    <string name="go_to_register">¿No tienes cuenta? Regístrate aquí</string>
+    <string name="go_to_login">¿Ya tienes cuenta? Inicia sesión</string>
+    <string name="home_title">Inicio</string>
+    <string name="btn_logout">Salir</string>
+    <string name="welcome_msg">Bienvenido al Museo</string>
+    <string name="admin_title">Administrador</string>
+    <string name="scan_title">Escáner</string>
+    <string name="desc_home">Ir al inicio</string>
+    <string name="panel_admin_welcome">Panel de Administración</string>
+    <string name="welcome_scanner">Bienvenido al Escáner del Museo</string>
+
+    <string name="label_obras">Obras</string>
+    <string name="label_formulario">Formulario</string>
+    <string name="label_qrcodes">Códigos QR</string>
+    <string name="hint_search_obra">Buscar obra por título...</string>
+    <string name="hint_titulo_obra">Título de la obra</string>
+    <string name="hint_descripcion_obra">Descripción detallada (para IA)</string>
+    <string name="btn_agregar_imagen">Seleccionar Imagen</string>
+    <string name="btn_guardar_obra">Guardar Obra</string>
+    <string name="btn_actualizar_obra">Actualizar Obra</string>
+    <string name="btn_descargar_todos">Descargar Todos</string>
+    <string name="desc_edit">Editar obra</string>
+    <string name="desc_download">Descargar QR</string>
+    <string name="detail_title">Detalle de Obra</string>
+    <string name="desc_ask_guide">Preguntar al guía</string>
+    <string name="hint_ask">Presiona para preguntar</string>
+    <string name="btn_scan_qr">Escanear Código QR</string>
+    <string name="thinking">Pensando...</string>
+    <string name="error_guide">Error al conectar con el guía.</string>
+    <string name="error_guide_msg">Hubo un problema al contactar con el guía virtual.</string>
 </resources>

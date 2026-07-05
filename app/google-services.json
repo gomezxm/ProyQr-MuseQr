@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "250881172399",
+    "project_id": "museqr-7090c",
+    "storage_bucket": "museqr-7090c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:250881172399:android:a478e79c78d52a2900855a",
+        "android_client_info": {
+          "package_name": "ac.pa.ptu.museqr"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyVkuoIG8Z4X9CSI10g2GZ1Id3QiKDgGI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
